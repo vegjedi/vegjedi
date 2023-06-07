@@ -10,7 +10,6 @@ I am a fast learner and team player with analyst background who recently transit
 
 Also about me:
 * 🌍  I'm based in Vancouver 
-* ✉️  You can contact me at [cainveg@gmail.com](mailto:cainveg@gmail.com) 
 * 🤝  I'm open to collaborating on AWS/Azure cloud projects
 
 ### Skills  
