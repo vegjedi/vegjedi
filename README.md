@@ -6,7 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ============================================
 
-I am a fast learner and team player with analyst background who recently transitioned into tech. I focus on cloud technology (AWS/Azure) with hands-on experience in JavaScript, Python (Machine Learning), and DevOps.  * 🌍  I'm based in Vancouver * ✉️  You can contact me at [cainveg@gmail.com](mailto:cainveg@gmail.com) * 🤝  I'm open to collaborating on AWS/Azure cloud projects
+I am a fast learner and team player with analyst background who recently transitioned into tech. I focus on cloud technology (AWS/Azure) with hands-on experience in JavaScript, Python (Machine Learning), and DevOps.
+
+Also about me:
+* 🌍  I'm based in Vancouver 
+* ✉️  You can contact me at [cainveg@gmail.com](mailto:cainveg@gmail.com) 
+* 🤝  I'm open to collaborating on AWS/Azure cloud projects
 
 ### Skills  
 
