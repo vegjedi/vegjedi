@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matthew 
 
-********************************************
+============================================
 
 🌩️ Cloud Engineer 🏗️ AWS Solution Architect
 
-********************************************
+============================================
 
 I am a fast learner and team player with analyst background who recently transitioned into tech. I focus on cloud technology (AWS/Azure) with hands-on experience in JavaScript, Python (Machine Learning), and DevOps.  * 🌍  I'm based in Vancouver * ✉️  You can contact me at [cainveg@gmail.com](mailto:cainveg@gmail.com) * 🤝  I'm open to collaborating on AWS/Azure cloud projects
 
