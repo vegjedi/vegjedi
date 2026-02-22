@@ -2,15 +2,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ============================================
 
-🌩️ Cloud Engineer 🏗️ AWS Solution Architect
+🌩️ IT Support 🏗️ Systems Enthusiast
 
 ============================================
 
-I am a fast learner and team player with analyst background who recently transitioned into tech. I focus on cloud technology (AWS/Azure) with hands-on experience in JavaScript, Python (Machine Learning), and DevOps.
+I’m a quick-learning team player with an analyst background who transitioned into IT. AWS Solutions Architect, Azure, and CompTIA A+ certified, I focus on multi-platform support (Linux/Arch daily driver, Windows, macOS), Python web scraping, shell automation, and HTML/CSS projects—all powered by my home lab.
 
 Also about me:
-* 🌍  I'm based in Vancouver 
-* 🤝  I'm open to collaborating on AWS/Azure cloud projects
+* 🌍  Based in Vancouver, Canada
+* 🤝  Open to collaborating on support, automation, and infrastructure projects
 
 ### Skills  
 
